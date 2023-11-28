@@ -1,0 +1,14 @@
+C:\Users\55739\Desktop\av-individual\avaliaçao\obj\Debug\net7.0\avaliaçao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\55739\Desktop\av-individual\avaliaçao\obj\Debug\net7.0\avaliaçao.AssemblyInfoInputs.cache
+C:\Users\55739\Desktop\av-individual\avaliaçao\obj\Debug\net7.0\avaliaçao.AssemblyInfo.cs
+C:\Users\55739\Desktop\av-individual\avaliaçao\obj\Debug\net7.0\avaliaçao.csproj.CoreCompileInputs.cache
+C:\Users\55739\Desktop\av-individual\avaliaçao\bin\Debug\net7.0\avaliaçao.exe
+C:\Users\55739\Desktop\av-individual\avaliaçao\bin\Debug\net7.0\avaliaçao.deps.json
+C:\Users\55739\Desktop\av-individual\avaliaçao\bin\Debug\net7.0\avaliaçao.runtimeconfig.json
+C:\Users\55739\Desktop\av-individual\avaliaçao\bin\Debug\net7.0\avaliaçao.dll
+C:\Users\55739\Desktop\av-individual\avaliaçao\bin\Debug\net7.0\avaliaçao.pdb
+C:\Users\55739\Desktop\av-individual\avaliaçao\obj\Debug\net7.0\avaliaçao.dll
+C:\Users\55739\Desktop\av-individual\avaliaçao\obj\Debug\net7.0\refint\avaliaçao.dll
+C:\Users\55739\Desktop\av-individual\avaliaçao\obj\Debug\net7.0\avaliaçao.pdb
+C:\Users\55739\Desktop\av-individual\avaliaçao\obj\Debug\net7.0\avaliaçao.genruntimeconfig.cache
+C:\Users\55739\Desktop\av-individual\avaliaçao\obj\Debug\net7.0\ref\avaliaçao.dll
